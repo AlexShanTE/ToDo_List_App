@@ -17,7 +17,10 @@ data class ToDoItem(
 
 @Parcelize
 sealed class Importance : Parcelable {
+    @Parcelize
     object Low : Importance() , Parcelable
+    @Parcelize
     object Default : Importance() , Parcelable
+    @Parcelize
     object Urgent : Importance() , Parcelable
 }

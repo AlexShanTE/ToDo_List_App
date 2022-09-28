@@ -5,6 +5,39 @@
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
+
+    <!--Common palette-->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <!--Lite palette-->
+    <color name="separator_light">#33000000</color>
+    <color name="overlay_light">#0F000000</color>
+    <color name="primary_light">#000000</color>
+    <color name="secondary_light">#99000000</color>
+    <color name="tertiary_light">#4D000000</color>
+    <color name="disable_light">#26000000</color>
+    <color name="red_light">#FF3B30</color>
+    <color name="green_light">#34C759</color>
+    <color name="blue_light">#007AFF</color>
+    <color name="gray_light">#8E8E93</color>
+    <color name="light_gray_light">#D1D1D6</color>
+    <color name="back_primary_light">#F7F6F2</color>
+    <color name="back_secondary_light">#FFFFFF</color>
+    <color name="back_elevated_light">#FFFFFF</color>
+    <!--Dark palette-->
+    <color name="separator_dark">#33FFFFFF</color>
+    <color name="overlay_dark">#52000000</color>
+    <color name="primary_dark">#FFFFFF</color>
+    <color name="secondary_dark">#99FFFFFF</color>
+    <color name="tertiary_dark">#66FFFFFF</color>
+    <color name="disable_dark">#26FFFFFF</color>
+    <color name="red_dark">#FF453A</color>
+    <color name="green_dark">#32D74B</color>
+    <color name="blue_dark">#0A84FF</color>
+    <color name="gray_dark">#8E8E93</color>
+    <color name="dark_gray_dark">#48484A</color>
+    <color name="back_primary_dark">#161618</color>
+    <color name="back_secondary_dark">#252528</color>
+    <color name="back_elevated_dark">#3C3C3F</color>
+
 </resources>
